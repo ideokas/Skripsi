@@ -1,3 +1,11 @@
+I chose the topic of my final project to qualify for college graduation. My topic is Defect Inspection steel surface using multi stage deep learning.
+
+To assist me in completing this final project, I use the Openmmlab platform and MMdetection which is very helpful for me in testing and simulation.
+
+Several types of configurations that I use include: Faster RCNN, Cascade RCNN and Detector RS (can be seen from the config folder) I chose these 3 configurations because they are part of multi stage deep learning.
+
+For a more complete explanation of MMdetection, see the original information below:
+
 <div align="center">
   <img src="resources/mmdet-logo.png" width="600"/>
   <div>&nbsp;</div>
